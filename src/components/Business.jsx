@@ -21,10 +21,10 @@ const FeatureCard = ({ icon, title, content, index }) => (
 const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
-      <h2 className={styles.heading2}>
+      <h2 className={`${styles.heading2} md:text-[36px] sm:text-[24px] xs:text-[18px]`}>
         Dein Weg zum Führerschein in Berlin-Neukölln
       </h2>
-      <p className={`${styles.paragraph} max-w-full mt-5`}>
+      <p className={`${styles.paragraph} max-w-full mt-5 md:mt-[10px] md:text-[18px] sm:text-[16px] xs:text-[12px] xs:mt-[-10px]`}>
 Die Fahrschule Turbo in Berlin-Neukölln (Donaustraße 101) begleitet dich zuverlässig 
 auf deinem Weg zum Führerschein. Wir bieten Unterricht in Deutsch, Arabisch, Türkisch 
 und Englisch, damit sich jeder bei uns wohlfühlt und optimal lernen kann. Unsere Fahrstunden 
