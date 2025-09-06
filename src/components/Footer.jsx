@@ -17,7 +17,7 @@ const Footer = () => (
         Copyright Ⓒ 2025 INFINITY-IO.
       </p>
 
-      <div className="flex flex-row md:mt-0 mt-6">
+      <div className="flex flex-row md:mt-0 mt-6 ">
         {socialMedia.map((social, index) => (
           <img
             key={social.id}

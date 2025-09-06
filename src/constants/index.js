@@ -95,11 +95,6 @@ export const socialMedia = [
     link: "https://www.instagram.com/fahrschule__turbo/",
   },
   {
-    id: "social-media-2",
-    icon: facebook,
-    link: "https://www.facebook.com/",
-  },
-  {
     id: "social-media-3",
     icon: tiktok,
     link: "https://www.tiktok.com/@fahrschule.turbo",
