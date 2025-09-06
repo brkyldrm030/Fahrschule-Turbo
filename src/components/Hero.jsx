@@ -27,7 +27,7 @@ const Hero = () => {
         <p className="font-poppins font-semibold ss:text-[30px] text-[52px] ss:mt-[-40px] xs:mt-[-10px] text-white ss:leading-[100.8px] leading-[75px] w-full xs:text-[25px]">
           Berlin Donaustraße
         </p>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5 xs:mt-4  xs:text-[14px] md:text-[24px] `}>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5 xs:mt-4  xs:text-[14px] md:text-[24px] sm:text-[24px] `}>
         Unser Team begleitet dich mit Erfahrung und einer bewährten 
         Lernmethodik auf deinem Weg zum Führerschein. Dabei gehen wir 
         individuell auf deine Stärken ein und unterstützen dich Schritt 
